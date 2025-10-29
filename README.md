@@ -158,7 +158,7 @@ send_to_user(amount, currency, receiver_tg_id)
 create_exchange(from_currency, to_currency, from_amount, local_currency)
 ```
 
-### P2P matket methods
+### P2P market methods
 
 
 ```
